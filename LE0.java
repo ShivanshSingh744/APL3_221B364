@@ -23,7 +23,7 @@ class test{
         System.out.println("Your age is "+age);
     }
 }
-public class APL0
+public class LE0
 {
 	public static void main(String[] args) {
 	    int x=2;
