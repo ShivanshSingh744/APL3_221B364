@@ -1,0 +1,3 @@
+interface Kindness {
+    void showKindness();
+}
